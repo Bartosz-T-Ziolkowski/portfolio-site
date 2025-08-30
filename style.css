@@ -38,6 +38,12 @@
     padding: 0 1.5rem;
   }
   
+  .profile-pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
   section {
     margin-bottom: 2rem;
   }
